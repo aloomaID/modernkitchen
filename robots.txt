@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://modernkitchen.tastkitchenremodeling.xyz/sitemap_index.xml
